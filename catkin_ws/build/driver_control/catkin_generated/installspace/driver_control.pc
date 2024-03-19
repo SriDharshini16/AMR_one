@@ -1,0 +1,8 @@
+prefix=/home/jetson/catkin_ws/install
+
+Name: driver_control
+Description: Description of driver_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

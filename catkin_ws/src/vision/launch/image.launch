@@ -1,0 +1,4 @@
+<launch>
+<node name="webcam" pkg="vision" type="image.py" output="screen" respawn="true"/>
+
+</launch>
